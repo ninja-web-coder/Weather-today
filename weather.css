@@ -1,0 +1,12 @@
+.navigation a{
+ color:white;
+}
+
+.fillform{
+    height: 40%;
+    width:50%;
+    background-color:white;
+    margin: 10% 0% 0% 25%;
+    padding: 4%;
+    text-align: center;
+}
